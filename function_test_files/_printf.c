@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdarg.h>
-/*_printf takes a format string and a variable number of arguments using the stdarg.h header.    */
+/*the function _printf takes a format string and a variable number of arguments using the stdarg.h header.     */
 
 int _printf(const char *format, ...);
 
