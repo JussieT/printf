@@ -1,4 +1,4 @@
-# ALX Software Engineering Printf Team Project
+# ALX Printf Team Project
 
 This project, known as `_printf`, introduces a custom printf function for the C programming language. It's designed to efficiently process various inputs and optional arguments, closely resembling the behavior of the standard library function `printf`. The submission of this project fulfills the requirements of the ALX Software Engineering course.
 
